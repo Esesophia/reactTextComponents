@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 1rem;
+}
+
+.btn-primary {
+  color: white;
+  background-color: darkolivegreen;
+  border: 0;
+  padding: 10px;
+  margin-right: 2rem;
+}
